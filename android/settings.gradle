@@ -1,0 +1,3 @@
+rootProject.name = 'LauchDeskTest'
+
+include ':app'
